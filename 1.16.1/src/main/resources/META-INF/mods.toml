@@ -1,0 +1,33 @@
+modLoader="javafml" #mandatory
+loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+issueTrackerURL="http://aidcraft.cf" #optional
+[[mods]] #mandatory
+modId="factorymod" #mandatory
+version="0.1.10.2" #mandatory
+displayName="Aidcraft Factories" #mandatory
+updateJSONURL="https://aidcraft.tk/json" #optional
+displayURL="http://aidcraft.cf/" #optional
+logoFile="example.png" #optional
+credits="TurttyWorty on Youtube" #optional
+authors="Aiden G" #optional
+description='''
+A mod that will add factories to the game
+'''
+[[dependencies.aidcraftf]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[31,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.aidcraftf]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

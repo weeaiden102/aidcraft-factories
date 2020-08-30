@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "factorymod:wrench",
+					"weight": 1
+				},
+				{
+					"type": "minecraft:block",
+					"name": "factorymod:scrap",
+					"weight": 99
+				}
+			]
+		}
+	]
+}

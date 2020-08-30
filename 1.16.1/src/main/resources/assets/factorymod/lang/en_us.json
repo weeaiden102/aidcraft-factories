@@ -1,0 +1,11 @@
+{
+	"item.factorymod.wrench": "Wrench",
+	"item.factorymod.working_wrench": "Super Wrench",
+	"item.factorymod.poweraxe": "Power Axe",
+	"item.factorymod.powerpickaxe": "Power Pickaxe",
+	"item.factorymod.powersword": "Power Sword",
+	"item.factorymod.powershovel": "Power Shovel",
+	"item.factorymod.powerhoe": "Power Hoe",
+	"block.factorymod.scrap": "Scrap",
+	"itemGroup.Factory Mod": "FactoryMod"
+}
