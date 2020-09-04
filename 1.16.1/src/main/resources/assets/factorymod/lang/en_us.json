@@ -7,5 +7,9 @@
 	"item.factorymod.powershovel": "Power Shovel",
 	"item.factorymod.powerhoe": "Power Hoe",
 	"block.factorymod.scrap": "Scrap",
-	"itemGroup.Factory Mod": "FactoryMod"
+	"itemGroup.Factory Mod": "FactoryMod",
+	"item.factorymod.scrap_helmet": "Scrap Helmate",
+	"item.factorymod.scrap_chestplate": "Scrap Chestplate",
+	"item.factorymod.scrap_leggings": "Scrap Leggings",
+	"item.factorymod.scrap_boots": "Scrap Boots"
 }

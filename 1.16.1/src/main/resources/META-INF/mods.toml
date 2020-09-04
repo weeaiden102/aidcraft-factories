@@ -3,7 +3,7 @@ loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft versio
 issueTrackerURL="http://aidcraft.cf" #optional
 [[mods]] #mandatory
 modId="factorymod" #mandatory
-version="0.1.10.2" #mandatory
+version="0.1.11" #mandatory
 displayName="Aidcraft Factories" #mandatory
 updateJSONURL="https://aidcraft.tk/json" #optional
 displayURL="http://aidcraft.cf/" #optional
